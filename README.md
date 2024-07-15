@@ -1,5 +1,5 @@
-Tools for the `omerga3` device
-==============================
+Tools for the `omega3` device
+=============================
 
 ## 🌿 Repository structure
 This repository is organized based upon the following multiple parallel (i.e. orphan in Git jargon) branches:
